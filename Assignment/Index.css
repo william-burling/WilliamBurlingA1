@@ -1,0 +1,48 @@
+@charset "utf-8";
+h1 {
+	width: 1000px;
+	color: #0005F9;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	border: thick outset #FF080D;
+	background-color: #FF0202;
+	border-bottom-right-radius: 10cm;
+	text-align: center;
+}
+h2 a {
+	text-align: center;
+}
+body h2 {
+	text-align: center;
+	color: #FFC600;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: xx-large;
+	font-weight: 900;
+	font-variant: small-caps;
+	font-style: normal;
+}
+
+
+body p {
+
+}
+body p a {
+	text-decoration: none;
+	text-align: left;
+}
+h3 {
+	text-shadow: 0px 0px #FF0004;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-style: italic;
+	color: #FD0004;
+}
+body h3 {
+	text-align: left;
+
+}
+
+
+
+body p {
+	text-decoration: none;
+	text-align: left;
+}

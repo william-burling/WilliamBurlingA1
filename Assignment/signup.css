@@ -1,0 +1,47 @@
+@charset "utf-8";
+input {
+	border: 2px solid #eeeeee;
+	height: 46px;
+	margin: 10px 0 0 0;
+	padding-top: 4.578px;
+	padding-right: 4.578px;
+	padding-left: 4.578px;
+	padding-bottom: 4.578px;
+	font-size: 1.2em;
+	line-height: 1.5em;
+	color: #333333;
+	letter-spacing: .01em;
+	font-style: normal;
+	font-weight: 300;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	;
+	right: 1%;
+	text-align: center;
+	width: 459px;
+}
+body a {
+	text-align: center;
+	text-decoration: none;
+	font-size: xx-large;
+
+}
+
+
+h1 {
+	color: #FF0004;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-style: oblique;
+	text-align: center;
+	text-decoration: underline;
+}
+
+
+
+h3 {
+	color: #FF0004;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-style: oblique;
+	font-size: xx-large;
+	text-decoration: underline;
+	text-align: center;
+}
